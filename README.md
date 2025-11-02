@@ -1,8 +1,8 @@
-👜 Website Bán Túi Xách - PHP MySQL
+👜 Website Thương mại điện tử - PHP MySQL
 ---------------------------------------------
 🌐 Giới thiệu
 
-Dự án Website Bán Túi Xách là một ứng dụng web được xây dựng bằng PHP và MySQL, cho phép người dùng mua sắm trực tuyến các sản phẩm túi xách.
+Dự án Website Thương mại điện tử là một ứng dụng web được xây dựng bằng PHP và MySQL, cho phép người dùng mua sắm trực tuyến các sản phẩm túi xách, trang sức.
 Trang web bao gồm giao diện người dùng (client) và trang quản trị (admin) giúp quản lý sản phẩm, khách hàng và đơn hàng dễ dàng.
 
 ---------------------------------------------
